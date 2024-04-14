@@ -12,8 +12,8 @@ No loop, monitorar a ação, que retorna true ou false.
 
   **if(p1.monitor()){**
   
-        *Ação requerida no intervalo.*
-
+   **Ação requerida no intervalo.**
+        
   **}**
 
 
