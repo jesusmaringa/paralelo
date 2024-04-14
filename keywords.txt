@@ -1,0 +1,4 @@
+Paralelo		KEYWORD1
+monitor    		KEYWORD2
+setTempo 		KEYWORD2
+getTempo 		KEYWORD2
